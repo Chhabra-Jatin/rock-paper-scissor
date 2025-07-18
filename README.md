@@ -1,42 +1,49 @@
-🪨📄✂️ Rock Paper Scissors Game - JavaScript Project
+# **🪨📄✂️ Rock Paper Scissors Game - JavaScript Project**
+
 This is a simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The user can play against the computer, and scores are tracked dynamically in the browser.
 
-🚀 Features
-Click-based interface to choose Rock, Paper, or Scissors.
 
-Random computer choice generated each round.
+## **🚀 Features**
 
-Real-time score tracking for both user and computer.
+    - Click-based interface to choose Rock, Paper, or Scissors.
 
-Instant feedback with color-coded result messages:
+    - Random computer choice generated each round.
 
-✅ Green for win
+    - Real-time score tracking for both user and computer.
 
-❌ Red for loss
+    - Instant feedback with color-coded result messages:
 
-⚖️ Blue for draw
+        ✅ Green for win
 
-🧠 Game Logic
-Rock beats Scissors
+        ❌ Red for loss
 
-Paper beats Rock
+        ⚖️ Blue for draw
 
-Scissors beats Paper
+## **🧠 Game Logic**
 
-Each time a user clicks a choice:
+    - Rock beats Scissors
 
-The computer generates a random choice.
+    - Paper beats Rock
 
-The winner is decided based on standard rules.
+    - Scissors beats Paper
 
-Scores and result messages are updated accordingly.
 
-📁 Project Structure
+Each time a user clicks a choice. The computer generates a random choice. The winner is decided based on standard rules. Scores and result messages are updated accordingly.
 
-index.html       # Basic UI structure with choice buttons and score display
-style.css        # Styling for layout and feedback colors
-script.js        # JavaScript logic for game functionality
-🛠️ Technologies Used
-HTML5
-CSS3
-Vanilla JavaScript (ES6)
+
+## **📁 Project Structure**
+
+    index.html       # Basic UI structure with choice buttons and score display
+
+    style.css        # Styling for layout and feedback colors
+
+    script.js        # JavaScript logic for game functionality
+
+
+## **🛠️ Technologies Used**
+
+    - HTML5
+
+    - CSS3
+
+    - Vanilla JavaScript (ES6)
